@@ -1,0 +1,90 @@
+.item1 {
+    grid-area: header;
+}
+
+.item2 {
+    grid-area: skills;
+}
+
+.item3 {
+    grid-area: main;
+}
+
+.item5 {
+    grid-area: footer;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+        'header header header header header header'
+        'skills main main main main main'
+        'footer footer footer footer footer footer';
+    gap: 10px;
+    /* background-color: #2196F3; */
+    padding: 10px;
+}
+
+.grid-container>div {
+    background-color: rgba(255, 255, 255, 0.8);
+    /* text-align: center; */
+    padding: 20px 0;
+    /* font-size: 30px; */
+}
+td{
+    padding: 5px;
+}
+
+
+/* For skills  */
+
+.skills ul{
+    list-style-type: none;
+}
+.skills .skillsheader{
+  text-align: center;
+    margin-top: -20px;
+    /* background-color: azure; */
+}
+.skills a{
+    display:block;
+    color:black;
+    padding:2px;
+    text-decoration:none;
+}
+.skills a:link {
+    color: lightgreen;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .skills a:visited {
+    color: darkgreen;
+    background-color: transparent;
+    text-decoration: none;
+  }
+.skills a.active{
+    background-color:#04AA6D;
+    color:white;
+}
+.skills a:hover:not(.active){
+    background-color:#555;
+    color:white;
+}
+@media screen and (max-width: 700px) {
+    .skills {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+    .skills a {float: left;}
+    div.content {margin-left: 0;}
+  }
+  
+  @media screen and (max-width: 400px) {
+    .skills a {
+      text-align: center;
+      float: none;
+    }
+  }
+/* ////////Skills Ends//////////// */

@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Tech Mahindra",
+    "doj": { "dd": "04", "mm": "02", "yyyy": "2019" },
+    "dor": { "dd": "", "mm": "", "yyyy": "" },
+    "role": "Tech Lead/Developer",
+    "project": [
+      {
+        "num": 1,
+        "role": "Tech Lead(Hands on and team handling)",
+        "teamSize": 4,
+        "client": "Bombardier Inc.",
+        "responsibilities": [
+          "Gather and analyse the requirements from AI team.",
+          "To write code for new requirements.",
+          "To work on enhancement for new functionality.",
+          "UI changes.",
+          "Customer interaction.",
+          "Team handling."
+        ],
+        "Environment": ["HTML", "CSS", "Angular"]
+      },
+      {
+        "num": 2,
+        "role": "Developer",
+        "teamSize": 3,
+        "client": "British Telecom",
+        "responsibilities": [
+          "Replicate web version to mobile version.",
+          "Developing features.",
+          "Customer interaction."
+        ],
+        "Environment": ["React Native."]
+      },
+      {
+        "num": 3,
+        "role": "Tech Lead",
+        "teamSize": 5,
+        "client": "SEBI SCORES",
+        "responsibilities": [
+          "Add new functionality as per CR.",
+          "Enhance UI.",
+          "Code validation.",
+          "Mentoring.",
+          "Developed android, iPhone, iPad, Windows mobile application with added features.",
+          "Upload App to App Store and Play Store.",
+          "Client interaction for CR."
+        ],
+        "Environment": ["JavaScript", "Angular JS", "Cordova", "HTML", "CSS"]
+      },
+      {
+        "num": 4,
+        "role": "Tech Lead",
+        "teamSize": 5,
+        "client": "SEBI Connect",
+        "responsibilities": [
+          "BRD development.",
+          "UI Guidance as per BRD.",
+          "Client Interactions related to BRD and new features/ testing.",
+          "Developed android, iPhone, iPad, Windows mobile application with added features.",
+          "Upload App to App Store and Play Store."
+        ],
+        "Environment": [
+          "JavaScript",
+          "Angular",
+          "Cordova",
+          "Ionic",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "num": 5,
+        "role": "Tech Lead/Developer",
+        "teamSize": 1,
+        "client": "SEBI Support function",
+        "responsibilities": [
+          "Update UI as per request.",
+          "Provide support to SCORES and Connect App.",
+          "Client interactions.",
+          "Develop new SCORES App using latest technology (Flutter).",
+          "Update Apps on App Store and Play Store."
+        ],
+        "Environment": [
+          "JavaScript",
+          "Angular",
+          "Cordova",
+          "Ionic",
+          "HTML",
+          "CSS",
+          "Flutter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dell Inc.",
+    "doj": { "dd": "12", "mm": "07", "yyyy": 2017 },
+    "dor": { "dd": "09", "mm": "04", "yyyy": 2018 },
+    "role": "Mobile Application Advisor",
+    "project": [
+      {
+        "num": "1",
+        "role": "Mobile Application Advisor",
+        "teamSize": "1",
+        "client": "Internal",
+        "responsibilities": [
+          "Gather and analyze the requirements.",
+          "Write code for new requirements.",
+          "Add new functionality.",
+          "Enhance UI.",
+          "Create and test API using NodeJS.",
+          "POC for web application using EJS, Express.",
+          "Client interaction.",
+          "Coordinating with different stake holders.",
+          "Decision making."
+        ],
+        "Environment": [
+          "Xamarin",
+          "C#",
+          "XAML",
+          "MS Visual Studio",
+          "Node",
+          "Express",
+          "EJS"
+        ]
+      },
+      {
+        "num": "2",
+        "role": "Mobile Application Advisor",
+        "teamSize": "1",
+        "client": "Internal",
+        "responsibilities": [
+          "Increase the scope of functionality by adding new features.",
+          "Multi lingual support.",
+          "Upgrade UI.",
+          "Upgrade encryption to AES.",
+          "Apply single login.",
+          "Developed android, iPhone, iPad, Windows mobile application with added features."
+        ],
+        "Environment": [
+          "jQuery-mobile",
+          "jQuery",
+          "AJAX",
+          "JSON",
+          "Cordova",
+          "XCode",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "MS Visual Studio",
+          "Underscore.js",
+          "ECMAScript 2015",
+          "OOPS JS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Netlink Software Pvt. Ltd.",
+    "doj": { "dd": "25", "mm": "05", "yyyy": 2015 },
+    "dor": { "dd": "23", "mm": "03", "yyyy": 2017 },
+    "role": "Tech Lead-Mobile Application and UI Development",
+    "project": [
+      {
+        "num": "1",
+        "role": "Tech Lead-Mobile Application and UI Development",
+        "teamSize": "6",
+        "client": "Internal",
+        "responsibilities": [
+          "xxCreated multitenancy application using jQuery mobile and Highcharts. Received JSON using AJAX call and plotted using Highcharts.xx",
+          "Used jQuery to apply JSON data to Highcharts to plot chart and share chart.",
+          "Handling a team of mobile application development of 5 members.",
+          "Gather and analyze requirement.",
+          "Client interaction.",
+          "Handling issues and escalations."
+        ],
+        "Environment": [
+          "jQuery-mobile",
+          "jQuery",
+          "Highcharts",
+          "AJAX",
+          "JSON",
+          "Cordova",
+          "XCode",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "ECMAScript",
+          "2015",
+          "SqLite",
+          "OOPS JS"
+        ]
+      },
+      {
+        "num": "2",
+        "role": "Sr. iOS Application Developer",
+        "teamSize": "6",
+        "client": "Internal",
+        "responsibilities": [
+          "POC app. Ionic and Angular as front hand technologies and back end technologies were node, express, mongodb (node Node, express for server creation and database mongodb.        ",
+          "Node – CRUD operations, HTTP/HTTPS streaming server, Routes, Debugging, streams, forking, Load balancing  etc.                                                                   ",
+          "Ionic – Buttons, alerts, menu, cards, icons, routing, storage, camera, splash screen etc.                                                                                        ",
+          "Angular – Router, Observables, lazy loading, modules, .                                                                                                                          ",
+          "Mongodb- create schema, model, document queries.                                                                                                                                 ",
+          "Create charts using JSON data over Highcharts.                                                                                                                                   ",
+          "Provide login and logout.                                                                                                                                                        ",
+          "Handling a team of mobile application development of 5 members.                                                                                                                  ",
+          "Gather and analyze requirement.                                                                                                                                                  ",
+          "Client interaction.                                                                                                                                                              ",
+          "Handling issues and escalations.                                                                                                                                                 ",
+          "Did first phase of manual testing.                                                                                                                                               "
+        ],
+        "Environment": [
+          "jQuery",
+          "Highcharts",
+          "AJAX",
+          "JSON",
+          "Cordova",
+          "PhoneGap",
+          "jQuery Mobile",
+          " OOPS JS",
+          "Google Polymer",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "POC Application with  Ionic",
+          "and MEAN stack(Angular, Node, Express and MongoDb)/Full stack"
+        ]
+      },
+      {
+        "num": "3",
+        "role": "iOS Application Developer /SSE",
+        "teamSize": "3",
+        "client": "Internal",
+        "responsibilities": [
+          "Explored and developed iOS application for demo, explored options of charting libraries available for native (iOS) application.  ",
+          "Created single page application (SPA) with a login page, chart, map and logout option.                                           ",
+          "It was a POC hence testing (manual) was done by me.                                                                              ",
+          "Create iOS application using Objective C in XCode.                                                                               ",
+          "Handle a team of mobile application development of 2 members.                                                                    ",
+          "Client interaction.                                                                                                              ",
+          "Handling issues and escalations.                                                                                                 "
+        ],
+        "Environment": ["XCode", "Objective C"]
+      },
+      {
+        "num": "4",
+        "role": "Pentaho Developer/SSE",
+        "teamSize": "1",
+        "client": "Internal",
+        "responsibilities": [
+          "Discover how to create maps and use them (particularly in Highmaps)",
+          "Explored Highmaps, Google maps.                                    ",
+          "Create map, document.                                              ",
+          "Deliver training and helping team members.                         ",
+          "Client interaction.                                                ",
+          "Gathering and understanding client requirement.                    "
+        ],
+        "Environment": [
+          "Highmaps",
+          "leaflet.js",
+          "QGIS",
+          "Google mpas",
+          "GeoJSON",
+          "JavaScript",
+          "HTML5",
+          "CSS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fitwell Corporation",
+    "doj": { "dd": "01", "mm": "06", "yyyy": 2011 },
+    "dor": { "dd": "22", "mm": "05", "yyyy": 2015 },
+    "role": "AIX administration cum UI Developer and documentation expert",
+    "project": [
+      {
+        "num": "1",
+        "role": "AIX administration cum UI Developer and documentation expert",
+        "teamSize": "2",
+        "client": "Invera Inc.",
+        "responsibilities": [
+          "As a UI Developer, designed and developed web pages, graphics, multimedia and GUIs. I have good knowledge of development using ",
+          "Worked on HTML 5, CSS3 and JavaScript technologies including jQuery and Google Polymer.                  ",
+          "Creation of dashboard based on JavaScript libraries for multiple usages.                                 ",
+          "Website design and maintenance.                                                                          ",
+          "Updating and maintenance of in-house website.                                                            ",
+          "Making AIX machines ready for operation, Creation of Logical volume group, File systems and directories  ",
+          "Installation of Informix/Oracle, Postgress, Microfocus Cobol, Ghost Scripts, STARTIX and other software. ",
+          "Monitoring and troubleshooting of AIX and software issues.                                               ",
+          "Backup and Replication Maintainence.                                                                     ",
+          "Creation of technical documentation such as: user guides/manuals, and machine report for clients.        "
+        ],
+        "Environment": [
+          "html",
+          "css",
+          "JavaScript",
+          "Informix",
+          "Postgress",
+          "Ghost Scripts",
+          "jQuery"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Teleperformance, CRM Services India Pvt. Ltd.",
+    "doj": { "dd": "22", "mm": "03", "yyyy": 2011 },
+    "dor": { "dd": "12", "mm": "05", "yyyy": 2011 },
+    "role": "Lead Technical Support Advisor",
+    "project": [
+      {
+        "num": "1",
+        "role": "Lead Technical Support Advisor",
+        "teamSize": "0",
+        "client": "Adobe",
+        "responsibilities": [
+          "To help Adobe customers in downloading, installation and first launch.",
+          "Paid support for previous version and free unlimited for current version.",
+          "Developed knowledge base for certain technical issues and provide new solutions and exchange ideas in user to user forum.",
+          "Assist co-workers.",
+          "Team Handling.",
+          "Creating different kind of reports"
+        ],
+        "Environment": ["Adobe Suit"]
+      }
+    ]
+  },
+  {
+    "name": "HCL Technologies, BPO Services",
+    "doj": { "dd": "25", "mm": "11", "yyyy": 2008 },
+    "dor": { "dd": "18", "mm": "03", "yyyy": 2011 },
+    "role": " Sr. Technical Associate",
+    "project": [
+      {
+        "num": "1",
+        "role": " Sr. Technical Associate",
+        "teamSize": "0",
+        "client": "Macys and Bloomingdale",
+        "responsibilities": [
+          "To collect amount from MACY and Bloomingdale store account holders.",
+          "To inform customer about their dues and collect the balance amount.",
+          "Created customer support documents."
+        ],
+        "Environment": ["Internal Software"]
+      }
+    ]
+  },
+  {
+    "name": "IBM Daksh Business Process Services Pvt. Ltd.",
+    "doj": { "dd": "26", "mm": "12", "yyyy": 2007 },
+    "dor": { "dd": "24", "mm": "11", "yyyy": 2008 },
+    "role": "Technical Executive",
+    "project": [
+      {
+        "num": "1",
+        "role": "Technical Executive",
+        "teamSize": "1",
+        "client": "Quickin and Quick Books",
+        "responsibilities": [
+          "To help people from America and Canada in download, installation, hardware issues and working for financial software.",
+          "To help customer to navigate on the website and to help them in downloading various software’s including the company’s software to third party products(Microsoft products)",
+          "To help customer in installation issues.",
+          "For installed products, help in troubleshooting with the software and make it work.",
+          "To help in generation of Invoice payrolls, cheques and various financial products.",
+          "Good knowledge of QuickBooks & Quicken.",
+          "Created help documents and how to use documents."
+        ],
+        "Environment": ["Internal Software"]
+      }
+    ]
+  }
+]

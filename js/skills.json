@@ -1,0 +1,43 @@
+[
+  {
+    "primary": [
+      { "name": "AJAX", "link": "xxxxx" },
+      { "name": "Angular", "link": "xxxxx" },
+      { "name": "Confluence", "link": "xxxxx" },
+      { "name": "Cordova", "link": "xxxxx" },
+      { "name": "CSS", "link": "xxxxx" },
+      { "name": "Express", "link": "xxxxx" },
+      { "name": "Highcharts", "link": "https://www.highcharts.com/" },
+      { "name": "HTML", "link": "xxxxx" },
+      { "name": "JavaScript", "link": "xxxxx" },
+      { "name": "Jira", "link": "xxxxx" },
+      { "name": "jQuery", "link": "xxxxx" },
+      { "name": "JSON", "link": "xxxxx" },
+      { "name": "Node", "link": "xxxxx" },
+      { "name": "OOP", "link": "xxxxx" },
+      { "name": "TFS", "link": "xxxxx" }
+    ]
+  },
+  {
+    "secondary": [
+      { "name": "Bower", "link": "xxxxx" },
+      { "name": "Bootstrap", "link": "xxxxx" },
+      { "name": "ECMAScript", "link": "xxxxx" },
+      { "name": "EJS", "link": "xxxxx" },
+      { "name": "Hapi", "link": "xxxxx" },
+      { "name": "Flutter", "link": "xxxxx" },
+      { "name": "GIT", "link": "xxxxx" },
+      { "name": "Ionic", "link": "xxxxx" },
+      { "name": "LESS/SASS/SCSS", "link": "xxxxx" },
+      { "name": "MongoDB", "link": "xxxxx" },
+      { "name": "Node", "link": "xxxxx" },
+      { "name": "ObjectiveC", "link": "xxxxx" },
+      { "name": "Python", "link": "xxxxx" },
+      { "name": "ReactNative", "link": "xxxxx" },
+      { "name": "SVN", "link": "xxxxx" },
+      { "name": "VisualStudio", "link": "xxxxx" },
+      { "name": "Webpack", "link": "xxxxx" },
+      { "name": "Xamarin", "link": "xxxxx" }
+    ]
+  }
+]
